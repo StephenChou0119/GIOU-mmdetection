@@ -1,5 +1,5 @@
 # GIOU-mmdetection
-An unofficial Implementation of Generalized Intersection over Union loss for mmdetection.  
+An unofficial Pytorch Implementation of Generalized Intersection over Union loss for mmdetection.  
 The project has referenced a numpy version [GIOU](https://github.com/diggerdu/Generalized-Intersection-over-Union) implement and the [IOU](https://github.com/open-mmlab/mmdetection/blob/466926eb499f4b5c93ce03bd7670ce766bb28e18/mmdet/models/losses/iou_loss.py) implement of mmdetection.
 # Usage
 1. test
